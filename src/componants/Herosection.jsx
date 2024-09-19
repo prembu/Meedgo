@@ -1,9 +1,9 @@
-import Image6 from "../assets/Image6.png";
-import Image5 from "../assets/Image5.png";
-import Image4 from "../assets/Image4.png";
+import Image6 from "../assets/image6.png";
+import Image5 from "../assets/image5.png";
+import Image4 from "../assets/image4.png";
 import Image3 from "../assets/image3.png";
 import { FaCheckCircle } from "react-icons/fa";
-import React from "react";
+
 import { BiBox } from "react-icons/bi";
 
 // hero section

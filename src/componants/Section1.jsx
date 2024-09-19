@@ -1,8 +1,8 @@
-import Image4 from "../assets/Image4.png";
+import Image4 from "../assets/image4.png";
 import Image3 from "../assets/image3.png";
 
 
-import React from 'react'
+
 
 function Section1() {
   return (
