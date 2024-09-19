@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+}
+.mainhero{
+   
+    width: 100vw;
+    height:100vh;
+    overflow-y:auto;
+    overflow-x: hidden;
+    /* margin-left: 170px;
+    margin-top: 80px; */
+
+
+}
+.hero2{
+    font-size: 80px;
+    font-weight: bold;
+}
+.subhero{
+     color: #0060C3;
+     
+}
+.hero1{
+    font-size: 20pxpx;
+    font-weight: 800px;
+    color: #0060C3;
+    text-transform: uppercase;
+    font-weight: 24;
+    font-family: poppins ;
+}
+.hero3{
+     margin-left: 170px;
+    margin-top: 70px;
+    width: 500px;
+    position: relative;
+    gap: 2px;
+   
+}
+.para1{
+    gap: 2px;
+    margin-top: 2px;
+    font-size: 20px;
+    font-weight: 600px;
+    
+
+}
+.btn3{
+    background-color: #0060C3; 
+    border-color: red;
+    padding: 0.3rem 1.5rem;
+    border: solid #0060C3;
+    margin-right: 80px;
+    border-radius: 8px;
+    font-size: 18px;
+    color: white;
+    margin-top: 28px;
+}
+.btndiv{
+    justify-content: space-between;
+}
+.heroside{
+    width: 700px;
+    height: 680px;
+    margin-top: 32px;
+    margin-right: 120px;
+
+}
+.circle{
+    position: absolute;
+    width: 280px;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.icon1{
+display: flex;
+align-items: center;
+margin-top: 28px;
+gap: 12px;
+}
